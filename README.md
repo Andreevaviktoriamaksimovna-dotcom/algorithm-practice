@@ -1,1 +1,1 @@
-My first Git project (local version)
+My first Git project (local + GitHub version)s
